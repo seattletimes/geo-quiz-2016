@@ -27,7 +27,8 @@
           quizData[q.id] = { 
             "question": q.question,
             "img": q.image,
-            "category": q.category
+            "category": q.category,
+            "credit": q.credit
           };
         });
         json.Answers.forEach(function(a, index) {
@@ -42,6 +43,7 @@
         });
       %>
       var quizData = <%= JSON.stringify(quizData) %>;
+      var resultsData = <%= JSON.stringify(json.Results) %>
       var configData = {
         title: "<%= json.project.title %>",
         description: "<%= json.project.description %>",

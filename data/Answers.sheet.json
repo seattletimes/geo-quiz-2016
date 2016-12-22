@@ -36,7 +36,7 @@
   {
     "id": 3,
     "answer": "Belgium",
-    "correct": "Stella Artois beer originated in Belgium."
+    "correct": "x"
   },
   {
     "id": 3,
@@ -146,7 +146,7 @@
   {
     "id": 9,
     "answer": "Dismal Nitch",
-    "correct": "Dismal Nitch, the name given a campsite on the Columbia River."
+    "correct": "Dismal Nitch is the name given a campsite on the Columbia River."
   },
   {
     "id": 9,
@@ -528,7 +528,7 @@
   {
     "id": 32,
     "answer": "Queenstown, Ireland",
-    "correct": "Queenstown, Ireland, in Cork Harbour."
+    "correct": "x"
   },
   {
     "id": 32,
@@ -735,7 +735,8 @@
   },
   {
     "id": 44,
-    "answer": "Museum of Flight, Seattle"
+    "answer": "Museum of Flight, Seattle",
+    "correct": "x"
   },
   {
     "id": 44,

@@ -12,7 +12,7 @@ var resultTemplate = require("./_resultTemplate.html");
 var overviewTemplate = require("./_overviewTemplate.html");
 
 var score = 0;
-var id = 37;
+var id = 36;
 
 // Set up templates
 ich.addTemplate("questionTemplate", questionTemplate);
@@ -48,9 +48,11 @@ $(".quiz-container").on("click", ".submit", function() {
   // keep track of selected answer
   quizData[id].answers.forEach(function(a) {
     if (a.correct) {
-      answerData.correct = a.answer;
+      answerData.answer = a.answer;
+      if (a.correct !== "x") answerData.correct = a.correct;
       answerData.img = quizData[id].img;
-      answerData.description = quizData[id].description;
+      answerData.category = quizData[id].category;
+      answerData.credit = quizData[id].credit;
     }
   });
 

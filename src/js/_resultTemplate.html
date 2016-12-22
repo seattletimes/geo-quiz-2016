@@ -3,11 +3,17 @@
   <div class="question-inner">
     <div class="answer">
       <div class="index"></div>
+      <div class="category">{{category}}</div>
+
+      {{#img}}<img class="photo-id" src="./assets/{{img}}.jpg">{{/img}}
+      {{#credit}}<div class="photo-credit">({{credit}})</div>{{/credit}}
+      
       <div class="highlight correct">{{#hooray}}Right!{{/hooray}}</div>
       <div class="highlight wrong">{{^hooray}}Nope.{{/hooray}}</div>
 
       <div class="answer-box">
-        <div class="description">{{correct}}</div>
+        <div class="description">{{answer}}</div>
+        {{#correct}}<div class="correct">{{correct}}</div>{{/correct}}
       </div>
     </div>
 
