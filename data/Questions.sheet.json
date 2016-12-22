@@ -1,0 +1,231 @@
+[
+  {
+    "id": 1,
+    "question": "If you saw a Shar-Pei jump onto a bar to lap up some spilled Tsingtao in the nation where the dog and the beer originated, you’d be in:",
+    "category": "Part One: A dog walked into a bar..."
+  },
+  {
+    "id": 2,
+    "question": "If you saw an Airedale jump onto a bar to lap up some spilled Boddingtons Bitter in the nation where the dog and the beer originated, you’d be in:",
+    "category": "Part One: A dog walked into a bar..."
+  },
+  {
+    "id": 3,
+    "question": "If you saw a schipperke leap several times in a vain effort to get onto a bar to lap up some spilled Stella Artois in the nation where the dog and the beer originated, you’d be in:",
+    "category": "Part One: A dog walked into a bar..."
+  },
+  {
+    "id": 4,
+    "question": "Which slogan appears on South Carolina’s standard auto-license plate?",
+    "category": "Part One: A dog walked into a bar..."
+  },
+  {
+    "id": 5,
+    "question": "Which slogan appears on Virginia’s standard auto-license plate?",
+    "category": "Part One: A dog walked into a bar..."
+  },
+  {
+    "id": 6,
+    "question": "Which slogan appears on Missouri’s standard auto-license plate?",
+    "category": "Part One: A dog walked into a bar..."
+  },
+  {
+    "id": 7,
+    "question": "Which slogan appears on North Dakota’s standard auto-license plate?",
+    "category": "Part One: A dog walked into a bar..."
+  },
+  {
+    "id": 8,
+    "question": "What do the cities of Bend, Ore., and Bellingham, Wash., NOT have in common?",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 9,
+    "question": "Which was a landmark in the travels of Lewis and Clark’s Corps of Discovery?",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 10,
+    "question": "Which of these groupings of Washington geographic names is the “odd man out,” differing from the others in a fundamental way?",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 11,
+    "question": "Which of these city names is NOT found in both Washington and Oregon?",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 12,
+    "question": "Which of these does NOT border British Columbia?",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 13,
+    "question": "How many times larger is British Columbia compared with the state of Washington?",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 14,
+    "question": "Measured by latitude, which is furthest north?",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 15,
+    "question": "Which is NOT a Washington state park name?",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 16,
+    "question": "An eccentric 19th-century lobbyist named George Willing claimed to have fabricated the name of:",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 17,
+    "question": "Who never climbed Mount Rainier?",
+    "category": "Part Two: In our corner"
+  },
+  {
+    "id": 18,
+    "question": "North America includes:",
+    "category": "Part Three: The seven continents"
+  },
+  {
+    "id": 19,
+    "question": "Which South American nation was named for a city in Italy?",
+    "category": "Part Three: The seven continents"
+  },
+  {
+    "id": 20,
+    "question": "On a map, which East African nation seems to “point” across the Indian Ocean to Mumbai, India?",
+    "category": "Part Three: The seven continents"
+  },
+  {
+    "id": 21,
+    "question": "There is a cluster of “Stan” nations in the middle of Asia. Which of the following did we make up?",
+    "category": "Part Three: The seven continents"
+  },
+  {
+    "id": 22,
+    "question": "In Australia’s central desert, a massive sandstone rock sacred to aboriginal people is known in their language as “Uluru.” It has also been known by this name given by European settlers:",
+    "category": "Part Three: The seven continents"
+  },
+  {
+    "id": 23,
+    "question": "What factor widely touted in early promotions of Washington’s wine industry do the wine-growing regions of France and Washington State have in common?",
+    "category": "Part Three: The seven continents"
+  },
+  {
+    "id": 24,
+    "question": "Which is NOT a sea off the shore of Antarctica?",
+    "category": "Part Three: The seven continents"
+  },
+  {
+    "id": 25,
+    "question": "Which nation’s flag does NOT bear stars and stripes?",
+    "category": "Part Four: A flag to sail under"
+  },
+  {
+    "id": 26,
+    "question": "Which nation’s flag is NOT red, white and blue?",
+    "category": "Part Four: A flag to sail under"
+  },
+  {
+    "id": 27,
+    "question": "Which nation’s flag does NOT incorporate the Union Jack?",
+    "category": "Part Four: A flag to sail under"
+  },
+  {
+    "id": 28,
+    "question": "Which nation’s flag bears a dragon?",
+    "category": "Part Four: A flag to sail under"
+  },
+  {
+    "id": 29,
+    "question": "Which of these animals is NOT native to Australia?",
+    "category": "Part Five: Wild kingdom"
+  },
+  {
+    "id": 30,
+    "question": "Which of these animals is NOT native to Africa?",
+    "category": "Part Five: Wild kingdom"
+  },
+  {
+    "id": 31,
+    "question": "Which of these animals is NOT native to North America?",
+    "category": "Part Five: Wild kingdom"
+  },
+  {
+    "id": 32,
+    "question": "What was the Titanic’s final port of call in 1912?",
+    "category": "Part Six: Were you paying attention? Questions from earlier this year"
+  },
+  {
+    "id": 33,
+    "question": "What is Egypt’s largest ancient structure?",
+    "category": "Part Six: Were you paying attention? Questions from earlier this year"
+  },
+  {
+    "id": 34,
+    "question": "Name the Pacific Island largely populated by descendants of the 1789 mutiny aboard the HMS Bounty.",
+    "category": "Part Six: Were you paying attention? Questions from earlier this year"
+  },
+  {
+    "id": 35,
+    "question": "Which of these South American nations is NOT crossed by the equator?",
+    "category": "Part Six: Were you paying attention? Questions from earlier this year"
+  },
+  {
+    "id": 36,
+    "question": "Name that festival:",
+    "image": 1,
+    "category": "Part Seven: Photo ID"
+  },
+  {
+    "id": 37,
+    "question": "Name that festival:",
+    "image": 2,
+    "category": "Part Seven: Photo ID"
+  },
+  {
+    "id": 38,
+    "question": "Name that festival:",
+    "image": 3,
+    "category": "Part Seven: Photo ID"
+  },
+  {
+    "id": 39,
+    "question": "Name that festival:",
+    "image": 4,
+    "category": "Part Seven: Photo ID"
+  },
+  {
+    "id": 40,
+    "question": "Name that festival:",
+    "image": 5,
+    "category": "Part Seven: Photo ID"
+  },
+  {
+    "id": 41,
+    "question": "Where's the museum? To see the famous 45.5-carat Hope Diamond, you’d visit: ",
+    "image": 6,
+    "category": "Part Seven: Photo ID"
+  },
+  {
+    "id": 42,
+    "question": "Where's the museum? To see the glittering gold death mask of the boy king, King Tut, you’d visit: ",
+    "image": 7,
+    "category": "Part Seven: Photo ID"
+  },
+  {
+    "id": 43,
+    "question": "Where's the museum? To see Georges Seurat’s iconic painting “A Sunday Afternoon on the Island of La Grande Jatte,” you’d visit: ",
+    "image": 8,
+    "category": "Part Seven: Photo ID"
+  },
+  {
+    "id": 44,
+    "question": "Where's the museum? To see the first presidential jet, an Air Force One used by Presidents Eisenhower, Kennedy, Johnson and Nixon, you’d visit:",
+    "image": 9,
+    "category": "Part Seven: Photo ID"
+  }
+]

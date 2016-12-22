@@ -1,0 +1,748 @@
+[
+  {
+    "id": 1,
+    "answer": "Japan"
+  },
+  {
+    "id": 1,
+    "answer": "South Korea"
+  },
+  {
+    "id": 1,
+    "answer": "China",
+    "correct": "x"
+  },
+  {
+    "id": 1,
+    "answer": "Vietnam"
+  },
+  {
+    "id": 2,
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": 2,
+    "answer": "England",
+    "correct": "x"
+  },
+  {
+    "id": 2,
+    "answer": "Luxembourg"
+  },
+  {
+    "id": 2,
+    "answer": "Poland"
+  },
+  {
+    "id": 3,
+    "answer": "Belgium",
+    "correct": "Stella Artois beer originated in Belgium."
+  },
+  {
+    "id": 3,
+    "answer": "Brazil"
+  },
+  {
+    "id": 3,
+    "answer": "Moldova"
+  },
+  {
+    "id": 3,
+    "answer": "France"
+  },
+  {
+    "id": 4,
+    "answer": "Fort Sumter State"
+  },
+  {
+    "id": 4,
+    "answer": "Not Far from Florida"
+  },
+  {
+    "id": 4,
+    "answer": "While I Breathe, I Hope",
+    "correct": "South Carolina does call itself the Palmetto State, but current plates bear this optimistic state slogan."
+  },
+  {
+    "id": 4,
+    "answer": "Palmetto State"
+  },
+  {
+    "id": 5,
+    "answer": "We’re a Commonwealth, not a State"
+  },
+  {
+    "id": 5,
+    "answer": "Virginia is for Lovers",
+    "correct": "x"
+  },
+  {
+    "id": 5,
+    "answer": "Best of the Beltway"
+  },
+  {
+    "id": 5,
+    "answer": "Capital of the Confederacy"
+  },
+  {
+    "id": 6,
+    "answer": "Right in the Middle"
+  },
+  {
+    "id": 6,
+    "answer": "Show Me State",
+    "correct": "x"
+  },
+  {
+    "id": 6,
+    "answer": "Harry Truman Slept Here"
+  },
+  {
+    "id": 6,
+    "answer": "You’re Not in Kansas Anymore"
+  },
+  {
+    "id": 7,
+    "answer": "Pretty Fracking Good"
+  },
+  {
+    "id": 7,
+    "answer": "Warmer Than Manitoba"
+  },
+  {
+    "id": 7,
+    "answer": "Where the Buffalo Roamed"
+  },
+  {
+    "id": 7,
+    "answer": "Peace Garden State",
+    "correct": "x"
+  },
+  {
+    "id": 8,
+    "answer": "A burgeoning craft-beer scene"
+  },
+  {
+    "id": 8,
+    "answer": "A “hometown” ski area"
+  },
+  {
+    "id": 8,
+    "answer": "A state university campus"
+  },
+  {
+    "id": 8,
+    "answer": "An eponymous river",
+    "correct": "x"
+  },
+  {
+    "id": 9,
+    "answer": "Klamath Falls"
+  },
+  {
+    "id": 9,
+    "answer": "Big Rock Candy Mountain"
+  },
+  {
+    "id": 9,
+    "answer": "Dismal Nitch",
+    "correct": "Dismal Nitch, the name given a campsite on the Columbia River."
+  },
+  {
+    "id": 9,
+    "answer": "Ebey’s Prairie"
+  },
+  {
+    "id": 10,
+    "answer": "Chelan, Whatcom, Roosevelt"
+  },
+  {
+    "id": 10,
+    "answer": "Snake, Quinault, Skagit",
+    "correct": "These are Washington rivers. The others are all lakes."
+  },
+  {
+    "id": 10,
+    "answer": "Crescent, Ross, Rattlesnake"
+  },
+  {
+    "id": 10,
+    "answer": "Washington, Sammamish, Tapps"
+  },
+  {
+    "id": 11,
+    "answer": "Redmond"
+  },
+  {
+    "id": 11,
+    "answer": "North Bend"
+  },
+  {
+    "id": 11,
+    "answer": "Hermiston",
+    "correct": "x"
+  },
+  {
+    "id": 11,
+    "answer": "Newport"
+  },
+  {
+    "id": 12,
+    "answer": "North Dakota",
+    "correct": "x"
+  },
+  {
+    "id": 12,
+    "answer": "Alaska"
+  },
+  {
+    "id": 12,
+    "answer": "Alberta"
+  },
+  {
+    "id": 12,
+    "answer": "Northwest Territories"
+  },
+  {
+    "id": 13,
+    "answer": "Twice the size."
+  },
+  {
+    "id": 13,
+    "answer": "More than 5 times bigger.",
+    "correct": "Washington’s land mass is 66,456 square miles. British Columbia is 364,764 square miles."
+  },
+  {
+    "id": 13,
+    "answer": "30 times larger, it’s just freaking huge."
+  },
+  {
+    "id": 13,
+    "answer": "None of the above; they’re essentially the same size."
+  },
+  {
+    "id": 14,
+    "answer": "Friday Harbor, Washington",
+    "correct": "x"
+  },
+  {
+    "id": 14,
+    "answer": "Concord, New Hampshire"
+  },
+  {
+    "id": 14,
+    "answer": "Halifax, Nova Scotia"
+  },
+  {
+    "id": 14,
+    "answer": "Detroit, Michigan"
+  },
+  {
+    "id": 15,
+    "answer": "Peshastin Pinnacles"
+  },
+  {
+    "id": 15,
+    "answer": "Steptoe Battlefield"
+  },
+  {
+    "id": 15,
+    "answer": "Golden Gardens",
+    "correct": "Golden Gardens is a Seattle city park."
+  },
+  {
+    "id": 15,
+    "answer": "Millersylvania"
+  },
+  {
+    "id": 16,
+    "answer": "the town of Zillah, Wash."
+  },
+  {
+    "id": 16,
+    "answer": "Poo Poo Point, on King County’s Tiger Mountain."
+  },
+  {
+    "id": 16,
+    "answer": "Crook County, Ore."
+  },
+  {
+    "id": 16,
+    "answer": "the state of Idaho.",
+    "correct": "Willing told federal officials that Idaho was an Indian term meaning “gem of the mountains.”"
+  },
+  {
+    "id": 17,
+    "answer": "John Muir"
+  },
+  {
+    "id": 17,
+    "answer": "Jim Whittaker"
+  },
+  {
+    "id": 17,
+    "answer": "Rear Admiral Peter Rainier",
+    "correct": "The admiral for whom Capt. George Vancouver named Mount Rainier traveled the globe with the Royal Navy but history bears no record of him ever seeing his namesake peak."
+  },
+  {
+    "id": 17,
+    "answer": "Vice President Al Gore"
+  },
+  {
+    "id": 18,
+    "answer": "Poughkeepsie, New York"
+  },
+  {
+    "id": 18,
+    "answer": "Acapulco, Mexico"
+  },
+  {
+    "id": 18,
+    "answer": "Barrow, Alaska"
+  },
+  {
+    "id": 18,
+    "answer": "All of the above",
+    "correct": "x"
+  },
+  {
+    "id": 19,
+    "answer": "Venezuela"
+  },
+  {
+    "id": 19,
+    "answer": "Bolivia"
+  },
+  {
+    "id": 19,
+    "answer": "Suriname"
+  },
+  {
+    "id": 19,
+    "answer": "Argentina"
+  },
+  {
+    "id": 20,
+    "answer": "Zambia"
+  },
+  {
+    "id": 20,
+    "answer": "Somalia",
+    "correct": "x"
+  },
+  {
+    "id": 20,
+    "answer": "Tanzania"
+  },
+  {
+    "id": 20,
+    "answer": "Sudan"
+  },
+  {
+    "id": 21,
+    "answer": "Kyrgyzstan"
+  },
+  {
+    "id": 21,
+    "answer": "Turkmenistan"
+  },
+  {
+    "id": 21,
+    "answer": "Botswanastan",
+    "correct": "Botswana is a nation in Africa."
+  },
+  {
+    "id": 21,
+    "answer": "Tajikistan"
+  },
+  {
+    "id": 22,
+    "answer": "Jihungus Boulder"
+  },
+  {
+    "id": 22,
+    "answer": "Bigfriggin Rock"
+  },
+  {
+    "id": 22,
+    "answer": "Ayers Rock",
+    "correct": "x"
+  },
+  {
+    "id": 22,
+    "answer": "Mount Dundee"
+  },
+  {
+    "id": 23,
+    "answer": "Similar latitude",
+    "correct": "x"
+  },
+  {
+    "id": 23,
+    "answer": "Chalk and schist soil"
+  },
+  {
+    "id": 23,
+    "answer": "Cheap labor"
+  },
+  {
+    "id": 23,
+    "answer": "The ability to grow a really tasty chenin blanc."
+  },
+  {
+    "id": 24,
+    "answer": "Dumont D’Urville Sea"
+  },
+  {
+    "id": 24,
+    "answer": "Bellingshausen Sea"
+  },
+  {
+    "id": 24,
+    "answer": "Cosmonaut Sea"
+  },
+  {
+    "id": 24,
+    "answer": "Beaufort Sea",
+    "correct": "The Beaufort Sea is north of the Arctic Circle, off Alaska and Canada."
+  },
+  {
+    "id": 25,
+    "answer": "Syria"
+  },
+  {
+    "id": 25,
+    "answer": "Venezuela"
+  },
+  {
+    "id": 25,
+    "answer": "Uzbekistan"
+  },
+  {
+    "id": 25,
+    "answer": "Sweden",
+    "correct": "x"
+  },
+  {
+    "id": 26,
+    "answer": "Slovenia"
+  },
+  {
+    "id": 26,
+    "answer": "Brazil",
+    "correct": "x"
+  },
+  {
+    "id": 26,
+    "answer": "France"
+  },
+  {
+    "id": 26,
+    "answer": "Norway"
+  },
+  {
+    "id": 27,
+    "answer": "Australia"
+  },
+  {
+    "id": 27,
+    "answer": "Canada",
+    "correct": "x"
+  },
+  {
+    "id": 27,
+    "answer": "New Zealand"
+  },
+  {
+    "id": 27,
+    "answer": "Fiji"
+  },
+  {
+    "id": 28,
+    "answer": "Bhutan",
+    "correct": "x"
+  },
+  {
+    "id": 28,
+    "answer": "Austria"
+  },
+  {
+    "id": 28,
+    "answer": "Finland"
+  },
+  {
+    "id": 28,
+    "answer": "China"
+  },
+  {
+    "id": 29,
+    "answer": "Platypus"
+  },
+  {
+    "id": 29,
+    "answer": "Okapi",
+    "correct": "x"
+  },
+  {
+    "id": 29,
+    "answer": "Wombat"
+  },
+  {
+    "id": 29,
+    "answer": "Kookaburra"
+  },
+  {
+    "id": 30,
+    "answer": "Lion"
+  },
+  {
+    "id": 30,
+    "answer": "White rhinoceros"
+  },
+  {
+    "id": 30,
+    "answer": "Jaguar",
+    "correct": "x"
+  },
+  {
+    "id": 30,
+    "answer": "Cheetah"
+  },
+  {
+    "id": 31,
+    "answer": "Mongoose",
+    "correct": "x"
+  },
+  {
+    "id": 31,
+    "answer": "Garter snake"
+  },
+  {
+    "id": 31,
+    "answer": "Alligator"
+  },
+  {
+    "id": 31,
+    "answer": "Grizzly bear"
+  },
+  {
+    "id": 32,
+    "answer": "Queenstown, Ireland",
+    "correct": "Queenstown, Ireland, in Cork Harbour."
+  },
+  {
+    "id": 32,
+    "answer": "Southampton, England"
+  },
+  {
+    "id": 32,
+    "answer": "New York, New York"
+  },
+  {
+    "id": 32,
+    "answer": "Belfast, Northern Ireland"
+  },
+  {
+    "id": 33,
+    "answer": "The Sphinx"
+  },
+  {
+    "id": 33,
+    "answer": "Bank of Cairo Stadium"
+  },
+  {
+    "id": 33,
+    "answer": "The Great Pyramid of Giza",
+    "correct": "x"
+  },
+  {
+    "id": 33,
+    "answer": "King Tut’s tomb"
+  },
+  {
+    "id": 34,
+    "answer": "Gable Island"
+  },
+  {
+    "id": 34,
+    "answer": "Christian Cay"
+  },
+  {
+    "id": 34,
+    "answer": "Gilligan’s Island"
+  },
+  {
+    "id": 34,
+    "answer": "Pitcairn Island",
+    "correct": "x"
+  },
+  {
+    "id": 35,
+    "answer": "Uruguay",
+    "correct": "x"
+  },
+  {
+    "id": 35,
+    "answer": "Ecuador"
+  },
+  {
+    "id": 35,
+    "answer": "Colombia"
+  },
+  {
+    "id": 35,
+    "answer": "Brazil"
+  },
+  {
+    "id": 36,
+    "answer": "Ballard's Syttende Mai parade, Seattle"
+  },
+  {
+    "id": 36,
+    "answer": "Ve Love Vikings Day, Oslo, Norway"
+  },
+  {
+    "id": 36,
+    "answer": "Up Helly Aa fire festival, Lerwick, Scotland",
+    "correct": "x"
+  },
+  {
+    "id": 36,
+    "answer": "Minnesota Vikings Kickoff Night, Minneapolis"
+  },
+  {
+    "id": 37,
+    "answer": "International Military Music Festival, Moscow",
+    "correct": "x"
+  },
+  {
+    "id": 37,
+    "answer": "March of the Toy Soldiers, Lincoln, Neb."
+  },
+  {
+    "id": 37,
+    "answer": "Bootmakers Parade, Sydney, Australia"
+  },
+  {
+    "id": 37,
+    "answer": "Bayonet Fest, Solingen, Germany"
+  },
+  {
+    "id": 38,
+    "answer": "Mystical Monday, Agra, India"
+  },
+  {
+    "id": 38,
+    "answer": "Festival of Lights, Berlin",
+    "correct": "x"
+  },
+  {
+    "id": 38,
+    "answer": "Halloween at Montmartre, Paris"
+  },
+  {
+    "id": 38,
+    "answer": "Oompa Loompa Day, Atlanta"
+  },
+  {
+    "id": 39,
+    "answer": "Lotus Lantern Festival, Seoul",
+    "correct": "x"
+  },
+  {
+    "id": 39,
+    "answer": "Tiffany Lamp Walk, San Francisco"
+  },
+  {
+    "id": 39,
+    "answer": "Fashion Week, Hanoi"
+  },
+  {
+    "id": 39,
+    "answer": "Festivus, Taipei"
+  },
+  {
+    "id": 40,
+    "answer": "Shave Ice Luau, Mauna Kea, Hawaii"
+  },
+  {
+    "id": 40,
+    "answer": "Ice Caber Toss, Ben Macdui, Scotland"
+  },
+  {
+    "id": 40,
+    "answer": "Yeti Fest, Mount Kailash, Tibet"
+  },
+  {
+    "id": 40,
+    "answer": "Snow Star Festival, Ocongate, Peru",
+    "correct": "x"
+  },
+  {
+    "id": 41,
+    "answer": "The Field Museum’s Grainger Hall of Gems, Chicago"
+  },
+  {
+    "id": 41,
+    "answer": "The Tower of London"
+  },
+  {
+    "id": 41,
+    "answer": "Smithsonian National Museum of Natural History, Washington, D.C.",
+    "correct": "x"
+  },
+  {
+    "id": 41,
+    "answer": "Cape Town Diamond Museum, South Africa"
+  },
+  {
+    "id": 42,
+    "answer": "The British Museum, London"
+  },
+  {
+    "id": 42,
+    "answer": "The Egyptian Museum, Cairo",
+    "correct": "x"
+  },
+  {
+    "id": 42,
+    "answer": "The Gold Museum, Bogotá"
+  },
+  {
+    "id": 42,
+    "answer": "National Archaeological Museum of Athens"
+  },
+  {
+    "id": 43,
+    "answer": "Musée d'Orsay, Paris"
+  },
+  {
+    "id": 43,
+    "answer": "Seattle Art Museum"
+  },
+  {
+    "id": 43,
+    "answer": "Art Institute of Chicago",
+    "correct": "x"
+  },
+  {
+    "id": 43,
+    "answer": "Tate Modern, London"
+  },
+  {
+    "id": 44,
+    "answer": "Planes of Fame Air Museum, Chino, Calif."
+  },
+  {
+    "id": 44,
+    "answer": "Museum of Flight, Seattle"
+  },
+  {
+    "id": 44,
+    "answer": "Palm Springs Air Museum, Palm Springs, Calif."
+  },
+  {
+    "id": 44,
+    "answer": "Frontiers of Flight Museum, Dallas"
+  }
+]
