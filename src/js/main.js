@@ -12,7 +12,7 @@ var resultTemplate = require("./_resultTemplate.html");
 var overviewTemplate = require("./_overviewTemplate.html");
 
 var score = 0;
-var id = 36;
+var id = 1;
 
 // Set up templates
 ich.addTemplate("questionTemplate", questionTemplate);
