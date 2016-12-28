@@ -9,18 +9,18 @@
     "min": 11,
     "max": 25,
     "title": "Level Two",
-    "description": "Captain von Trapp (led kids over the Alps) "
+    "description": "Captain Cook (circled the globe until he got himself cooked)"
   },
   {
     "min": 26,
     "max": 35,
     "title": "Level Three",
-    "description": "Captain Cook (did well until he got himself cooked)"
+    "description": "Sacagawea (helped guide Lewis and Clark to the Pacific)"
   },
   {
     "min": 36,
     "max": 44,
     "title": "Level Four",
-    "description": "Amerigo Vespucci (got continents named for him)"
+    "description": "Nellie Bly (first person to circle the globe in 72 days)"
   }
 ]
