@@ -1,6 +1,15 @@
 <div class="overview inner">
   <p class="result-name">You scored: <span class="result">{{score}}/{{total}}</span>
 
+  <p>What kind of explorer are you?
+
+  <ul class="possibles">
+    {{#results}}
+    <li {{#match}}class="winner"{{/match}}> {{description}}
+    {{/results}}
+  </ul>
+
+
   <button class="active retake"><i class="fa fa-undo" aria-hidden="true"></i> Retake quiz</button>
 
 </div>

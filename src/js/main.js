@@ -40,7 +40,7 @@ $(".quiz-container").on("click", ".submit", function() {
   var answerData = {};
   answerData.question = quizData[id].question;
   var correct = $("input:checked").val();
-  if (correct) { 
+  if (correct) {
     score += 1;
     answerData.hooray = true;
   }
@@ -88,23 +88,13 @@ var watchNext = function() {
 };
 
 var calculateResult = function() {
-  for (var index in resultsData) {
-    var result = resultsData[index];
-    if (score >= result.min && score <= result.max) {
-      // display result
-      result.score = score;
-      if (result.score > 5) { 
-        result.color = "#589040";
-      } else if (result.score > 2) { 
-        result.color = "#F5AE3F";
-      } else {
-        result.color = "#e12329";
-      }
-      result.total = Object.keys(quizData).length;
-
-      $(".question-box").html(ich.overviewTemplate(result));
-    }
-  }
+  var data = {
+    total: Object.keys(quizData).length,
+    results: resultsData,
+    score
+  };
+  resultsData.forEach(r => r.match = score >= r.min && score <= r.max);
+  $(".question-box").html(ich.overviewTemplate(data));
 };
 
 showQuestion(id);

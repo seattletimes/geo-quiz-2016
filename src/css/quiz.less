@@ -27,7 +27,7 @@ button {
   &.active {
     background: @submit-color;
     cursor: pointer;
-    
+
     &:hover {
       background: darken(@submit-color, 10%);
     }
@@ -56,11 +56,11 @@ button {
 
 .question-box {
   padding: 0 30px;
-  
+
   .inner {
     display: inline-block;
     width: 100%;
-    
+
     @media @break {
       padding: 25px 40px;
     }
@@ -150,6 +150,22 @@ button {
         padding: 8px;
         padding-right: 0;
       }
+    }
+  }
+}
+
+.possibles {
+  list-style-type: none;
+  color: @df-light-gray;
+  padding: 0;
+  margin: 0;
+
+  li {
+    display: block;
+
+    &.winner {
+      color: @df-blue;
+      font-weight: bold;
     }
   }
 }
